@@ -1,4 +1,4 @@
-#设置开发环境  
+# 设置开发环境  
 a: windows 11  
 b. visual studio 2022  
 c. 创建开发目录  
@@ -17,4 +17,10 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/greateDouDou/learning_doc.git
 git push -u origin main
+```
+# update github
+```
+git add .
+git commit -m "....."
+git push origin HEAD
 ```
